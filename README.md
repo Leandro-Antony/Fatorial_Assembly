@@ -1,4 +1,4 @@
-## Arquittetura de Computadores
+## Arquitetura de Computadores
 ### Docente: Mônica Magalhães Pereira
 ### Discente: Leandro Antony Batista Lemos
 
@@ -17,7 +17,7 @@ Programa em Assembly MIPS32 que realiza a leitura de um valor inteiro `n` e calc
 
 ```
 ler n
-se n>= 13: n = 12
+se n >= 13: n = 12
 senão se n < 0: n = 0
 resultado = 1 
 enquanto n > 1:
